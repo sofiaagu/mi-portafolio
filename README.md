@@ -45,18 +45,21 @@ Videojuego de plataformas desarrollado en equipo con Unity y C#. Cuenta con nive
 
 [Consultar el repositorio del proyecto](https://github.com/sofiaagu/Taller2)
 
-### Modelado 3D — Casco de Halo
+### 🪖 Modelado 3D — Casco de Halo
 
 Proyecto de modelado tridimensional de un casco inspirado en el universo de Halo, realizado en Blender.
 
-**Área:** Modelado 3D.
+![Modelo 3D de casco inspirado en Halo](imagenes/Casco%20Halo.jpeg)
 
 **Herramienta:** Blender.
 
-**Archivos del proyecto:**
+**Videos de demostración:**
+- [Ver video 1](https://youtu.be/Ys-yA6BONbU)
+- [Ver video 2](https://youtu.be/X3rqqG311WU)
+
+**Archivo del proyecto:**
 - [Descargar archivo de Blender (.blend)](https://uao-my.sharepoint.com/:u:/g/personal/sofia_aguiar_uao_edu_co/IQDDagmcInqdQo9bXVeSSu2jAfmrTX9ZKhxXzQXIL_qGeHg?e=1b236H)
 
-Próximamente se añadirá el video de demostración y una galería de imágenes del modelo.
 
 ### Animación 3D — Naves espaciales
 
