@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imagenes/banner-portafolio.png" alt="Portafolio de Sofia Aguiar - Ingeniería Multimedia" width="100%">
+</p>
+
 # mi-portafolio
 Portafolio profesional de Ingeniería Multimedia: videojuegos, modelado 3D, animación y realidad aumentada.
 
