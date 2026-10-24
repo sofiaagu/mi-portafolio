@@ -34,16 +34,21 @@ Proyecto académico colaborativo que integra modelos 3D de aves, reconocimiento 
 
 ### Warriors Trial — Videojuego 2D
 
-Videojuego de plataformas desarrollado en equipo con Unity y C#. Cuenta con niveles en los que el jugador debe superar obstáculos, recolectar monedas, evitar peligros y enfrentarse a enemigos.
+Videojuego de plataformas 2D desarrollado en equipo con Unity y C#. Cuenta con niveles en los que el jugador debe superar obstáculos, recolectar monedas, evitar peligros y enfrentarse a enemigos.
 
 **Mis contribuciones individuales:**
+
 - Programación del movimiento y salto del jugador.
-- Trabajo en el movimiento de los enemigos escorpión.
-- Implementación de la hitbox de la espada y de su activación temporizada durante el ataque.
+- Implementación del movimiento del enemigo escorpión.
+- Desarrollo de la hitbox de la espada y activación temporizada durante el ataque.
 
 **Tecnologías:** Unity y C#.
 
-[Consultar el repositorio del proyecto](https://github.com/sofiaagu/Taller2)
+**Video de demostración:**
+
+[![Ver Warriors Trial — Videojuego 2D](https://img.youtube.com/vi/LWupHMmYB-4/hqdefault.jpg)](https://youtu.be/LWupHMmYB-4)
+
+**Código fuente:** [Consultar el repositorio del proyecto](https://github.com/sofiaagu/Taller2)
 
 ### Modelado 3D — Casco de Halo
 
