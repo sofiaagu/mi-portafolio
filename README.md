@@ -99,6 +99,7 @@ Proyecto de animación 3D de naves espaciales, desarrollado como parte de mi for
 ## Contacto
 
 - **GitHub:** [@sofiaagu](https://github.com/sofiaagu)
+- **Correo electrónico:** [aguiarsofia77@gmail.com](mailto:aguiarsofia77@gmail.com)
 
 ---
 
