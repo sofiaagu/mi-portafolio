@@ -71,7 +71,9 @@ Proyecto de animación 3D de naves espaciales, desarrollado como parte de mi for
 
 **Herramienta:** Blender.
 
-**Video de demostración:** [3D Spaceship Animation | Blender Showcase](https://youtu.be/0bXP7PcMypA)
+**Video de demostración:**
+
+[![Ver animación 3D de naves espaciales](https://img.youtube.com/vi/0bXP7PcMypA/hqdefault.jpg)](https://youtu.be/0bXP7PcMypA)
 
 
 ## Tecnologías y herramientas
