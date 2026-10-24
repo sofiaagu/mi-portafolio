@@ -2,9 +2,6 @@
   <img src="imagenes/banner-portafolio.png" alt="Portafolio de Sofia Aguiar - Ingeniería Multimedia" width="100%">
 </p>
 
-# mi-portafolio
-Portafolio profesional de Ingeniería Multimedia: videojuegos, modelado 3D, animación y realidad aumentada.
-
 # ¡Hola! Soy estudiante de Ingeniería Multimedia 
 
 Soy estudiante de Ingeniería Multimedia en la Universidad Autónoma de Occidente (UAO), en Cali, Colombia. Me interesa desarrollar experiencias digitales que integren programación, creatividad, diseño y tecnología.
