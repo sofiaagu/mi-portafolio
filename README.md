@@ -32,6 +32,12 @@ Proyecto académico colaborativo que integra modelos 3D de aves, reconocimiento 
 - [Explorar la experiencia de realidad aumentada](https://sofiaagu.github.io/paginaaaaaa/)
 - [Consultar el repositorio del proyecto](https://github.com/catalinaortiz-hub/Parcial2-AR)
 
+**Video de demostración:**
+
+[![Ver demostración del libro de aves en realidad aumentada](https://img.youtube.com/vi/18ufjgd-ExM/hqdefault.jpg)](https://youtube.com/shorts/18ufjgd-ExM)
+
+[Ver demostración en YouTube](https://youtube.com/shorts/18ufjgd-ExM)
+
 ### Warriors Trial — Videojuego 2D
 
 Videojuego de plataformas 2D desarrollado en equipo con Unity y C#. Cuenta con niveles en los que el jugador debe superar obstáculos, recolectar monedas, evitar peligros y enfrentarse a enemigos.
