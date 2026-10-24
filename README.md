@@ -60,8 +60,13 @@ Proyecto de modelado tridimensional de un casco inspirado en el universo de Halo
 **Archivo del proyecto:**
 - [Descargar archivo de Blender (.blend)](https://uao-my.sharepoint.com/:u:/g/personal/sofia_aguiar_uao_edu_co/IQDDagmcInqdQo9bXVeSSu2jAfmrTX9ZKhxXzQXIL_qGeHg?e=1b236H)
 
-**Video de demostración:**
-[Ver video en YouTube](https://youtu.be/0bXP7PcMypA)
+### Animación 3D — Naves espaciales
+
+Proyecto de animación 3D de naves espaciales, desarrollado como parte de mi formación en Ingeniería Multimedia.
+
+**Herramienta:** Blender.
+
+**Video de demostración:** [3D Spaceship Animation | Blender Showcase](https://youtu.be/0bXP7PcMypA)
 
 
 ## Tecnologías y herramientas
